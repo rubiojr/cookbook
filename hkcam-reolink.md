@@ -14,6 +14,8 @@ Build and install hkcam: https://github.com/brutella/hkcam
 
 Install v4l2loopback from https://copr.fedorainfracloud.org/coprs/sentry/v4l2loopback.
 
+Add the rpmfusion repo https://rpmfusion.org and install `ffmpeg`.
+
 Install required GStreamer plugins:
 
 ```
